@@ -19,11 +19,11 @@
 
 ### :zap: GitHub Stats
 
-![](https://github-readme-stats-gama99.vercel.app/api?username=gama99&count_private=true&include_all_commits&show_icons=true&theme=dracula)
+![](https://github-readme-stats-gama99.vercel.app/api?username=Gama99&count_private=true&include_all_commits&show_icons=true&show_owner&theme=dracula)
 
 ### Languages and Tools:
 
-![](https://github-readme-stats-gama99.vercel.app/api/top-langs/?username=gama99&count_private=true&theme=dracula)
+![](https://github-readme-stats-gama99.vercel.app/api/top-langs/?username=Gama99&langs_count=10&theme=dracula)
 
 
 [twitter]: https://twitter.com/codeSTACKr
