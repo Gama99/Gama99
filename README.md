@@ -19,7 +19,7 @@
 
 ### :zap: GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=gama99&include_all_commits=true&show_icons=true&count_private=true&theme=dracula)
+![](https://github-readme-stats.vercel.app/api?username=gama99&theme=dracula)
 
 ### Languages and Tools:
 
