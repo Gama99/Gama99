@@ -23,7 +23,7 @@
 
 ### Languages and Tools:
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gama99)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gama99&theme=dracula)
 
 
 
