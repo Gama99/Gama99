@@ -11,7 +11,7 @@
 ### Connect with me:
 
 [![linkedin-shield]][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[![instagram-shield]][instagram]
 
 <br />
 
@@ -30,3 +30,4 @@
 [instagram]: https://www.instagram.com/leo_apollaro/
 [linkedin]: https://www.linkedin.com/in/apollogama/
 [linkedin-shield]: https://img.shields.io/badge/-linkedin-0078B6?logo=linkedin&logoColor=white&style=for-the-badge
+[instagram-shield]: https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
