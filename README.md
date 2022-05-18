@@ -1,6 +1,6 @@
 ### Hey, I'm Leonardo - aka Gama99 👋 
 
-## I'm a Computer Engineer at Virginia Tech 🎓 - Graduating in 2022 !!
+## I'm recent Computer Engineer graduate at Virginia Tech 🎓 - Networking & Cybersecurity
 
 - 📥 I’m currently looking for job positions
 - 🌱 I’m currently learning everything 🤣
