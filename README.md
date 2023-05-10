@@ -5,7 +5,7 @@
 - 📥 I’m currently looking for job positions
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2022 Goals: Learn JavaScript and Contribute more to Open Source projects
+- 🥅 2023 Goals: Learn TypeScript and Rust, Contribute more to Open Source projects
 - ⚡ Fun fact: I am also a DJ 🎧 | Can also do really cool magic tricks 🃏
 
 ### Connect with me:
