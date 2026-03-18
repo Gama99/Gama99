@@ -2,10 +2,10 @@
 
 ## I'm a Computer Engineer graduated at Virginia Tech 🎓
 
-- 📥 I’m currently looking for job positions
+- 📥 I’m currently looking working
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2024 Goals: Learn TypeScript and Rust, Contribute more to Open Source projects
+- 🥅 2026 Goals: Learn Rust, Contribute more to Open Source projects
 - ⚡ Fun fact: I am also a DJ 🎧 | Can also do really cool magic tricks 🃏
 
 ### Connect with me:
